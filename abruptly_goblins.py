@@ -1,4 +1,4 @@
-#Tasked to find the best day in available from a list of gamers.
+#Tasked to find the best day available from a list of gamers.
 
 gamers = []
 
