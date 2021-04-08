@@ -3,7 +3,7 @@
 
 ## First Task
 Interates through a list of gamers and days they are available
-and finds the optimal day for the most gamers to attend.
+to find the optimal day for the most gamers to attend.
 Then forwards a customized email for each gamer.
 
 ## Second Task
